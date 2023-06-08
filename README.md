@@ -1,9 +1,7 @@
 # Jonas Wombacher - Research Project Telecooperation
 This repository contains the Unity project I built for a university course called "Research Project Telecooperation". The resulting app was developed for the Meta Quest Pro. If you want to know more about this project, you can check out the [documentation on my homepage](https://www.jonaswombacher.de/research-project-telecooperation).
 
-
-https://github.com/jjoonnaasss/research-project-telecooperation/assets/33218099/06a9cee2-9f40-453e-a583-8abce4b9a36c
-
+https://github.com/jjoonnaasss/research-project-telecooperation/assets/33218099/ba4c2c3d-43e0-42de-84f0-2b81c5ec8b8a
 
 ## Resources used in the project
 - Fire particles: [Unity Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325)
@@ -15,8 +13,7 @@ https://github.com/jjoonnaasss/research-project-telecooperation/assets/33218099/
 ### Controls for setting up the environment
 Holding down either of the two grip/grab buttons on the controllers brings up the setup UI, attached to the left controller. It is used for setting up the environment, characters, and goals and it won't be visible in the simulation mode.
 
-![Setup UI window](https://github.com/jjoonnaasss/research-project-telecooperation/assets/33218099/b55e55df-6208-4827-b535-a00b47ab6706)
-
+![Setup UI window](https://github.com/jjoonnaasss/research-project-telecooperation/assets/33218099/44a25baf-3140-4d7b-b098-1543178317ca)
 
 At the top of this window, you can switch between creating/editing obstacles and characters.
 Below that, you can toggle the creation mode. In the creation mode, you can create and edit obstacles or characters. Outside the creation mode, you can place goals by pointing at the floor with the right controller and pressing the A button.
